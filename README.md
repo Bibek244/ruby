@@ -1,6 +1,13 @@
-This repository is a collection of Ruby programming projects and exercises to enhance my skills and understanding of the Ruby programming language. 
-It serves as a hands-on learning resource where I implement various Ruby concepts and solve problems through practical projects.
 
+# Learning ruby
+This repository is a collection of Ruby programming projects and exercises to enhance my understanding of the Ruby programming language. 
+
+#Programs in this repository
+- Program 1: Caesar Cipher Encryption
+- Program 2: Mastermind Game
+- Program 3: Movie Manager
+- program 4: TicTacToe Game
+- program 5: Todolist
 
 
 ## Installation
