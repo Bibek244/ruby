@@ -21,3 +21,10 @@ git clone https://github.com/Bibek244/ruby.git
 # Go into the repository
 ```bash
 cd ruby
+```
+# Run program
+```bash
+#example
+cd MasterMind
+ruby Mastermind.rb
+```
